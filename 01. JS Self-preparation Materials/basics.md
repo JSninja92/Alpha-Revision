@@ -30,7 +30,8 @@
 ### Complex/Reference: Objects, Arrays, Functions.
 - Reference data types, often referred to as complex data types, involve variables that store references or addresses to the actual data rather than directly storing the data itself.
 
-
+### Loops
+- Executing block of code repeatedly until certain condition is met.
 
 
 

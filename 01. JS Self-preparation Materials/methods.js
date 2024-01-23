@@ -19,6 +19,7 @@ const maxOfThree = Math.max(2, -7, 4.5); // max of a few numbers
 const mathRound = Math.round(pi); // 3 // round a number according to math rules
 const mathCeil = Math.ceil(pi) // 4
 const mathFloor = Math.floor(pi) // 3
+const mathAbsDifference = Math.abs(a - b); // find the absolute difference between two numbers
 
 const repeatSymbol = symbol.repeat(20); // ----------------
 console.log(3 % 2)
