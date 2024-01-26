@@ -33,5 +33,6 @@
 ### Loops
 - Executing block of code repeatedly until certain condition is met.
 
-
+### Arrays
+- JavaScript arrays are dynamic, meaning you can change their size by adding or removing elements. 
 

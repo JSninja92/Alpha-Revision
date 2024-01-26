@@ -23,3 +23,21 @@ const mathAbsDifference = Math.abs(a - b); // find the absolute difference betwe
 
 const repeatSymbol = symbol.repeat(20); // ----------------
 console.log(3 % 2)
+
+// Array Methods
+let names = ['ventsi', 'silvena', 'drago'];
+names.push('maxi') // add element to the end of the array
+names.pop() // remove the last element
+names.unshift('jonny') // add element to the beginning of the array;
+names.shift('maxi') //remove the first element
+
+let word = 'JavaScript';
+let arrayOfLetters = word.split('') 
+let js_letters = Array.from(word);
+let str = arrayOfLetters.join() 
+let arrToString = String(js_letters);
+
+let arrayWithDuplicates = [1, 2, 3, 3, 4, 5, 5, 6];
+let uniqueArray = [...new Set(arrayWithDuplicates)]; // creating new array without duplicate elements 
+
+//map(), filter(), reduce(), split()
